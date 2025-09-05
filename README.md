@@ -38,5 +38,5 @@ Enter number of iterations: 20
 1 2 2 1 1 2 1 2 2 1 2 2 1 1 2 1 1 2 2 1 
 ```
 
-## Conclusion 
+## 📊 Conclusion 
 Through this university study, it was observed that the interaction of XOR and left-shift operations naturally reveals self-referential patterns, producing a sequence with the same structural properties as the classical Kolakoski sequence.
